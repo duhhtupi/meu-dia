@@ -1,0 +1,6 @@
+{
+  "appId": "br.meudia.app",
+  "appName": "Meu Dia",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
